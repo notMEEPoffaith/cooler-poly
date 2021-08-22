@@ -2,7 +2,7 @@ name: "cooler poly"
 displayName: "Cooler Poly"
 author: "notMEEPoffaith"
 description: "First texture pack. Makes the poly look cooler"
-version: "1.1"
+version: "1.2"
 minGameVersion: "127"
 dependencies: [ ]
 hidden: false
