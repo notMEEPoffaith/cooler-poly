@@ -5,4 +5,4 @@ description: "First texture pack. Makes the poly look cooler"
 version: "1.2"
 minGameVersion: "127"
 dependencies: [ ]
-hidden: false
+hidden: true
