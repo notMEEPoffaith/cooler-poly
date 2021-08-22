@@ -1,2 +1,2 @@
 # cooler-poly
-adds in a cooler poly
+makes the poly look cooler
